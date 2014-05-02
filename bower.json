@@ -1,0 +1,23 @@
+{
+  "name": "ChessBoard",
+  "version": "0.0.1",
+  "dependencies": {
+    "jasmine": "1.3.1",
+    "angular-ui": "latest"
+  },
+  "homepage": "https://github.com/IvanMalison/ChessBoard",
+  "authors": [
+    "Ivan Malison <IvanMalison@gmail.com>"
+  ],
+  "description": "A flexible, angular based chess board, with the ability to enforce legal moves.",
+  "main": "src",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib/bower",
+    "test",
+    "tests"
+  ]
+}
